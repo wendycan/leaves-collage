@@ -1,3 +1,2 @@
-leaves-collage
+Leaves Collage
 ==============
-#Leaves Collage
